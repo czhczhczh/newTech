@@ -1,0 +1,2 @@
+# newTech
+only learning
